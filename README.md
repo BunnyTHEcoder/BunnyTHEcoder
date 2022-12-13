@@ -48,7 +48,7 @@
 <a href = "https://www.linkedin.com/in/suraj-rajaram-7a6abb206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_suraz__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.codechef.com/users/bhai_pakka"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
-<a href = "https://leetcode.com/bhai_pakka/"><img src="https://www.google.com/search?q=leetcode&sxsrf=ALiCzsa6h9L3IjC3Ww2MBZCcRPUVDxhEbw:1670777799096&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEv9qphPL7AhU3yosBHdwVDOsQ_AUoA3oECAEQBQ&biw=1536&bih=746&dpr=1.25#imgrc=TdRSbr7l1IB03M"/></a>
+<a href = "https://leetcode.com/Suraj_Nanavare/><img src="https://www.google.com/search?q=leetcode&sxsrf=ALiCzsa6h9L3IjC3Ww2MBZCcRPUVDxhEbw:1670777799096&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEv9qphPL7AhU3yosBHdwVDOsQ_AUoA3oECAEQBQ&biw=1536&bih=746&dpr=1.25#imgrc=TdRSbr7l1IB03M"/></a>
 
 
 </p>
