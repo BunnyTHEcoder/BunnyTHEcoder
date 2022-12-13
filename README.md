@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Structures, Algorithms, Web-Development, C++.**
 
-- 📫 How to reach me **surazrazaram20@gmail.com**
+- 📫 How to reach me **surajrajaram20@gmail.com**
 
 - ⚡ 
 
