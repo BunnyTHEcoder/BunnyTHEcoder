@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Data Structures, Algorithms, Web-Development, C++.**
+- 💬 Ask me about **Data Structures, Algorithms, Web-Development, DBMS, C++.**
 
 - 📫 How to reach me **surajrajaram20@gmail.com**
 
