@@ -22,13 +22,9 @@
 
 ## Coding Profiles:
 <p align="left">
-
-
 <a href = "https://www.codechef.com/users/bhai_pakka"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
-<a href = "https://leetcode.com/Suraj_Nanavare/"><img src="https://img.icons8.com/fluent/48/000000/leetcode.png"/></a>
-<a href = "https://codeforces.com/profile/Chutkicoding"><img src="https://img.icons8.com/fluent/48/000000/codeforces.png"/></a>
-
-
+<a href="https://codeforces.com/profile/chutkicoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chutkicoding" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suraj_nanavare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj_nanavare" height="30" width="40" /></a>
 </p>
 
 ## LEETCODE STATS
@@ -73,5 +69,3 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
