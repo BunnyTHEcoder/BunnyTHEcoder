@@ -1,63 +1,39 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Suraj Nanavare!</h1>
-<h3 align="center">I'm proficient in C++, and Data Structures & Algorithm. I'm currently learning Web Development!</h3>
+# 💫 About Me:
+👨‍🎓I am Suraj Nanavare, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br>💻I am a Full-Stack web Developer & Competitive Programmer<br>3⭐ coder on CodeChef<br>I love❤ to make exciting projects.<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about Data Structures, Algorithms, Web-Development, C++.<br>📫 How to reach me surajrajaram20@gmail.com
 
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__suraz___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-rajaram-7a6abb206/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BunnyFact) 
 
-## 👩‍💻 About Me
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **Data Structures, Algorithms, Web-Development, DBMS, C++.**
-
-- 📫 How to reach me **surajrajaram20@gmail.com**
-
-- ⚡Challenge : face-off me in dribbling (⚽)
-
-## 🚀 Languages and Tools:
-<br/>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-## 🔥 My Github Streaks
-<br />
-<p align="center">
-    <a href="https://github.com/BunnyTHEcoder/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj Nanavre's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyTHEcoder&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/BunnyTHEcoder/github-readme-stats"><img alt="Suraj Nanavre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BunnyTHEcoder&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/BunnyTHEcoder/github-readme-stats"><img alt="Suraj Nanavare's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyTHEcoder&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-<br/>
-
-![Suraj Nanavare's github activity graph](https://activity-graph.herokuapp.com/graph?username=BunnyTHEcoder&theme=radical)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/suraj-rajaram-7a6abb206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_suraz__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.codechef.com/users/bhai_pakka"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
-<a href = "https://leetcode.com/Suraj_Nanavare/"><img src="https://www.google.com/search?q=leetcode&sxsrf=ALiCzsa6h9L3IjC3Ww2MBZCcRPUVDxhEbw:1670777799096&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEv9qphPL7AhU3yosBHdwVDOsQ_AUoA3oECAEQBQ&biw=1536&bih=746&dpr=1.25#imgrc=TdRSbr7l1IB03M"/></a>
+<a href = "https://www.linkedin.com/in/gauri-bhand-718848219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_gauri.bhand/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.codechef.com/users/gauri023"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
 
 
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BunnyTHEcoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BunnyTHEcoder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyTHEcoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=BunnyTHEcoder">
-</a>
-<a href="https://github.com/BunnyTHEcoder?tab=followers"><img src="https://img.shields.io/github/followers/BunnyTHEcoder?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BunnyTHEcoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BunnyTHEcoder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
