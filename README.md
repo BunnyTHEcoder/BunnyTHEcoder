@@ -15,6 +15,7 @@
 
 </p>
 
+## LEETCODE STATS
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Suraj_Nanavare&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 # 💻 Tech Stack:
@@ -36,7 +37,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
