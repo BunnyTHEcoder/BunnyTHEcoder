@@ -67,5 +67,9 @@
 <a href="https://github.com/BunnyTHEcoder?tab=followers"><img src="https://img.shields.io/github/followers/BunnyTHEcoder?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/BunnyTHEcoder/BunnyTHEcoder/blob/output/github-contribution-grid-snake.gif)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
