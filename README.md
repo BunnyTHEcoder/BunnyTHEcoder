@@ -70,6 +70,8 @@
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/BunnyTHEcoder/BunnyTHEcoder/blob/output/github-contribution-grid-snake.gif)
 
+
+## My Contribution Graph
 ![gitartwork](gitartwork.svg)
 
 
@@ -77,3 +79,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
