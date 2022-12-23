@@ -75,8 +75,7 @@
 
 
 
-## My Contribution Graph
-![gitartwork](gitartwork.svg)
+
 
 
 
