@@ -53,6 +53,10 @@
 
 
 
+![snake gif](https://github.com/BunnyTHEcoder/BunnyTHEcoder/blob/output/github-contribution-grid-snake.gif)
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BunnyTHEcoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -67,8 +71,8 @@
 <a href="https://github.com/BunnyTHEcoder?tab=followers"><img src="https://img.shields.io/github/followers/BunnyTHEcoder?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/BunnyTHEcoder/BunnyTHEcoder/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
 ## My Contribution Graph
