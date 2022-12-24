@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **surajrajaram20@gmail.com**
 
-- ⚡ Hobby Playing Football ⚽
+- ⚡ Hobby playing Football ⚽
 
 
 ## 🌐 Socials:
