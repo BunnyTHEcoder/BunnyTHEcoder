@@ -6,7 +6,7 @@
 
 <br/>
 
-## 👩‍💻 About Me
+## 👩‍💻 About me
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
