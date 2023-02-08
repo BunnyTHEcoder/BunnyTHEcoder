@@ -17,7 +17,7 @@
 - ⚡ Hobby playing Football ⚽
 
 - 🧑‍💻 My Portfolio : https://www.surajnanavare.in/
-s
+
 
 
 ## 🌐 Socials:
