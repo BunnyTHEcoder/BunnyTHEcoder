@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About  Me
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning ** MERN **
 
-- 💬 Ask me about **Data Structures, Algorithms, Web-Development, C++. ReactJS, Javascript, HTML, CSS, BOOTSTRAP**
+- 💬 Ask me about **Data Structures,, Algorithms, Web-Development, C++. ReactJS, Javascript, HTML, CSS, BOOTSTRAP**
 
 - 📫 How to reach me **surajrajaram20@gmail.com**
 
