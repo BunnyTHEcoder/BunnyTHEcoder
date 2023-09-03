@@ -16,7 +16,7 @@
 
 - ⚡ Hobby playing Football ⚽
 
-- 🧑‍💻 My Portfolio : https://www.surajnanavare.in/
+- 🧑‍💻 My Portfolio : [https://portfolio-eosin-mu-53.vercel.app/]
 
 
 
