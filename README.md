@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About  Me
 
-- 🌱 I’m currently exploring ** SHELL SCRIPTING, Jenkins, Networking amd Linux  **
+- 🌱 I’m currently exploring ** SHELL SCRIPTING, Jenkins, Networking and Linux  **
 
-- 💬 Ask me about **Data Structures,, Algorithms, Web-Development, C++. ReactJS, Javascript, HTML, CSS, BOOTSTRAP**
+- 💬 Ask me about **Data Structures and Algorithms, Web-Development, C++. ReactJS, Javascript, Operating Systems, Automation and Scripting**
 
 - 📫 How to reach me **surajrajaram20@gmail.com**
 
