@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About  Me
 
-- 🌱 I’m currently learning ** MERN **
+- 🌱 I’m currently exploring ** SHELL SCRIPTING, Jenkins, Networking amd Linux  **
 
 - 💬 Ask me about **Data Structures,, Algorithms, Web-Development, C++. ReactJS, Javascript, HTML, CSS, BOOTSTRAP**
 
