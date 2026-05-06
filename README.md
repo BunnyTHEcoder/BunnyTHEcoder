@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Suraj Nanavare!</h1>
-<h3 align="center">I'm proficient  in C++, Data Structures & Algorithm, DBMS and ReactJS.</h3>
+<h3 align="center">I'm proficient  in Data Structures & Algorithm, DBMS and ReactJS.</h3>
 
 
 <br/>
 
 ## 👩‍💻 About  Me
 
-- 🏢 I’m currently working as **Enovia R&D Software Engineer at Dassault Systemes.**
+- 🏢 I’m currently working as **Software Engineer at Dassault Systemes.**
 
 - 💬 Ask me about **Data Structures and Algorithms, Web-Development, C++. ReactJS, Javascript, Operating Systems, Automation and Scripting**
 
